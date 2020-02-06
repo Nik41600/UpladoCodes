@@ -1,0 +1,6 @@
+3D Frames Effects & Wallpaper Maker			3DEffectPhotoEditorFrame_25012020
+Echo Mirror Magic Effect & Background Changer		EcoMirrorMagicEditor_25012020
+Mosaic Effect : Photo Editor and Photo Collage		MosaicPhotoCollage_25012020
+Photo Editor : All In One				PhotoEditor_25012020
+Pixel Effect Photo Editor				PixelEffectPhotoEditor_25012020
+Sketch Photo Editor -Pencil Sketch Art Photo Maker	SketchArtPhoto_25012020
